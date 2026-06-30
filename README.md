@@ -24,7 +24,7 @@ Through this workflow, the following three core business and recruitment questio
 
 ## Key Data Insights
 
-* **The Experience Advantage:** Students possessing prior work experience secured the highest overall baseline package tiers in the entire dataset, topping out at an elite maximum package of **3940,000**.
+* **The Experience Advantage:** Students possessing prior work experience secured the highest overall baseline package tiers in the entire dataset, topping out at an elite maximum package of **940,000**.
 * **The Academic Factor:** Academic consistency stands as a critical recruitment gatekeeper. Students categorized under the engineered academic `Distinction` tier achieved a stellar **92% placement rate**, whereas the `Average` tier saw placement metrics drop significantly to **31%**.
 * **Stream & Domain Dominance:** The undergraduate `Commerce & Management` stream along with the post-graduate `Marketing & Finance` MBA specialisation completely dominated recruitment velocity, overall baseline volume, and top salary distributions across the board.
 
