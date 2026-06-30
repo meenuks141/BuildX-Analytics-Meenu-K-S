@@ -28,16 +28,9 @@ Through this workflow, the following three core business and recruitment questio
 * **The Academic Factor:** Academic consistency stands as a critical recruitment gatekeeper. Students categorized under the engineered academic `Distinction` tier achieved a stellar **92% placement rate**, whereas the `Average` tier saw placement metrics drop significantly to **31%**.
 * **Stream & Domain Dominance:** The undergraduate `Commerce & Management` stream along with the post-graduate `Marketing & Finance` MBA specialisation completely dominated recruitment velocity, overall baseline volume, and top salary distributions across the board.
 
-
 ## Project Components & Repository Structure
 
 * **`notebook.ipynb`**: Python notebook documenting data exploration, programmatic handling of missing values (imputing unpaid/unplaced fields), text layout standardizations, and performance binning.
 * **`cleaned_dataset.csv`**: The fully standardized, processed, and clean placement dataset ready for relational database workflows.
 * **`queries.sql`**: Structured SQL business analysis script mapping out targeted insights using `WHERE`, `GROUP BY`, `HAVING`, and advanced conditional `CASE WHEN` aggregation logic.
 * **`dashboard.pbix`**: The multi-page interactive Power BI dashboard tracking crucial placement rates, package variances, and core recruitment drivers.
-
-
-## Tech Stack & Tools Used
-* **Data Processing:** Python (Pandas, NumPy) inside Google Colab
-* **Relational Database Analysis:** SQLite / SQLiteOnline Engine
-* **Business Intelligence & Data Visualization:** Power BI Desktop (DAX Modeling, KPI Indicators, Interactive Slicers)
